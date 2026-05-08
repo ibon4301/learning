@@ -2,9 +2,9 @@
 02 - Condicionales ✅
 03 - Tipos de datos ✅
 04 - Strings y template strings ✅
+05 - Operadores ✅
+06 - Bucles ✅
 
-05 - Operadores
-06 - Bucles
 07 - Funciones
 08 - Arrays
 09 - Objetos
