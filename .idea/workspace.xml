@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20452ebb-ab37-4f29-8cc9-1356a7326ada" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/PHP/Teoría/php_roadmapsh.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pasos_a_seguir_PHP.md" beforeDir="false" afterPath="$PROJECT_DIR$/Pasos_a_seguir_PHP.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Ejercicios/03/ejercicio1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Ejercicios/03/ejercicio2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Ejercicios/03/ejercicio3.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Ejercicios/03/ejercicio4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Ejercicios/03/ejercicio5.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PHP/Teoría/03_strict_types.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,7 +27,7 @@
     </persistenceIdMap>
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="120" />
+    <option name="cachedIndexableFilesCount" value="124" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -113,6 +118,9 @@
       <workItem from="1780997359479" duration="4575000" />
       <workItem from="1781013581991" duration="1962000" />
       <workItem from="1781017110454" duration="485000" />
+      <workItem from="1781166088077" duration="7172000" />
+      <workItem from="1781250046170" duration="35000" />
+      <workItem from="1781251440522" duration="1486000" />
     </task>
     <servers />
   </component>
